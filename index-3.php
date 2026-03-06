@@ -196,7 +196,7 @@
 
 
     <!-- services-start -->
-    <div class="fx-services-4-area pt-150 pb-150 p-relative fix">
+    <div class="fx-services-4-area pt-70 pb-70 p-relative fix">
         <!-- <div class="fx-services-4-bg img-cover fix">
                 <img src="assets/img/services/s4-scn-bg.png" alt="">
             </div> -->
@@ -220,7 +220,7 @@
                         <img src="assets/img/indus/01.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase pb-2">
-                        <a href="services-details.html" aria-label="name">AUTOMOBILE</a>
+                        <a href="#" aria-label="name">AUTOMOBILE</a>
                     </h5>
                     <p class="card-disc fx-para-1 has-opacity-7">Delivering innovative industrial manufacturing
                         solutions to improve efficiency, reliability, and operational excellence across production
@@ -241,7 +241,7 @@
                         <img src="assets/img/indus/02.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase pb-2">
-                        <a href="services-details.html" aria-label="name">DEFENCE</a>
+                        <a href="#" aria-label="name">DEFENCE</a>
                     </h5>
                     <p class="card-disc fx-para-1 has-opacity-7">We deliver robust engineering solutions supporting
                         mission-ready defense systems with precision reliability performance and readiness.</p>
@@ -261,7 +261,7 @@
                         <img src="assets/img/indus/03.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase pb-2">
-                        <a href="services-details.html" aria-label="name">AGRICULTURE</a>
+                        <a href="#" aria-label="name">AGRICULTURE</a>
                     </h5>
                     <p class="card-disc fx-para-1 has-opacity-7">Agrizone blends traditional farming values with modern
                         innovation delivering sustainable efficient high quality agricultural solutions globally.</p>
@@ -281,7 +281,7 @@
                         <img src="assets/img/indus/04.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase pb-2">
-                        <a href="services-details.html" aria-label="name">ELECTRONICS</a>
+                        <a href="#" aria-label="name">ELECTRONICS</a>
                     </h5>
                     <p class="card-disc fx-para-1 has-opacity-7">We manufacture high precision components delivering
                         reliable accurate performance for evolving electronics and technology <br> industries.</p>
@@ -301,7 +301,7 @@
                         <img src="assets/img/indus/05.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase pb-2">
-                        <a href="services-details.html" aria-label="name">RAILWAY</a>
+                        <a href="#" aria-label="name">RAILWAY</a>
                     </h5>
                     <p class="card-disc fx-para-1 has-opacity-7">We manufacture critical railway components ensuring
                         safety durability reliability and long term network performance.</p>
@@ -321,7 +321,7 @@
                         <img src="assets/img/indus/066.png" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase pb-2">
-                        <a href="services-details.html" aria-label="name">CONSTRUCTION</a>
+                        <a href="#" aria-label="name">CONSTRUCTION</a>
                     </h5>
                     <p class="card-disc fx-para-1 has-opacity-7">We provide heavy duty construction solutions ensuring
                         strength durability reliability across residential commercial industrial projects.</p>
@@ -341,7 +341,7 @@
                         <img src="assets/img/indus/07.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase pb-2">
-                        <a href="services-details.html" aria-label="name">AEROSPACE</a>
+                        <a href="#" aria-label="name">AEROSPACE</a>
                     </h5>
                     <p class="card-disc fx-para-1 has-opacity-7">We deliver high precision aerospace engineering
                         solutions ensuring safety quality reliability performance and continuous innovation.</p>
@@ -363,7 +363,7 @@
                         <img src="assets/img/indus/08.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase pb-2">
-                        <a href="services-details.html" aria-label="name">PETROLEUM</a>
+                        <a href="#" aria-label="name">PETROLEUM</a>
                     </h5>
                     <p class="card-disc fx-para-1 has-opacity-7">We provide reliable high performance petroleum
                         solutions ensuring safety efficiency consistency across upstream downstream operations.</p>
@@ -385,7 +385,7 @@
                         <img src="assets/img/indus/09.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase pb-2">
-                        <a href="services-details.html" aria-label="name">ENERGY</a>
+                        <a href="#" aria-label="name">ENERGY</a>
                     </h5>
                     <p class="card-disc fx-para-1 has-opacity-7">We deliver innovative reliable energy solutions
                         supporting efficient generation transmission sustainability across evolving power systems.</p>
@@ -828,7 +828,7 @@
                         <img src="assets/img/plants/04.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase" style="color: #000000;">
-                        <a href="services-details.html" aria-label="name">Casting Unit</a>
+                        <a href="#" aria-label="name">Casting Unit</a>
                     </h5>
 
                     <div class="shape">
@@ -846,7 +846,7 @@
                         <img src="assets/img/plants/07.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase" style="color: #000000;">
-                        <a href="services-details.html" aria-label="name">Forging Plant</a>
+                        <a href="#" aria-label="name">Forging Plant</a>
                     </h5>
 
                     <div class="shape">
@@ -864,7 +864,7 @@
                         <img src="assets/img/plants/03.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase" style="color: #000000;">
-                        <a href="services-details.html" aria-label="name">Tools & Dye Shop</a>
+                        <a href="#" aria-label="name">Tools & Dye Shop</a>
                     </h5>
 
                     <div class="shape">
@@ -882,7 +882,7 @@
                         <img src="assets/img/plants/02.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase" style="color: #000000;">
-                        <a href="services-details.html" aria-label="name">Agricultural Implement</a>
+                        <a href="#" aria-label="name">Agricultural Implement</a>
                     </h5>
 
                     <div class="shape">
@@ -900,7 +900,7 @@
                         <img src="assets/img/plants/01.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase" style="color: #000000;">
-                        <a href="services-details.html" aria-label="name">Gear Shop</a>
+                        <a href="#" aria-label="name">Gear Shop</a>
                     </h5>
 
                     <div class="shape">
@@ -918,7 +918,7 @@
                         <img src="assets/img/plants/06.jpg" alt="">
                     </div>
                     <h5 class="card-title fx-heading-2 fx-font-600 text-uppercase" style="color: #000000;">
-                        <a href="services-details.html" aria-label="name">Pin Plant</a>
+                        <a href="#" aria-label="name">Pin Plant</a>
                     </h5>
 
                     <div class="shape">
@@ -1010,114 +1010,118 @@
     <!-- Certification Section End -->
 
     <!-- contact-us-start -->
-    <div class="fx-contact-us-1-area">
-        <div class="container fx-container-1">
-            <div class="row align-items-stretch">
-                <!-- left-side -->
-                <div class="col-lg-6">
-                    <div class="fx-contact-us-1-left">
-                        <!-- section-title -->
-                        <div class="fx-blog-1-scn-title mb-35">
-                            <h6 class="fx-subtitle-1 ">
-                                <span class="txaa-split-text-2 txaa-split-text-2-ani">Get in Touch</span>
-                            </h6>
-                            <h2 class="fx-scn-title-1 txaa-split-text-3 txaa-split-text-3-ani">Reach Out for Expert
-                                Industrial Service Solutions</h2>
+    <section class="pt-40 pb-40" style="background-color:#f5f5f5;">
+        <div class="fx-contact-us-1-area">
+            <div class="container fx-container-1">
+                <div class="row align-items-stretch">
+                    <!-- left-side -->
+                    <div class="col-lg-6">
+                        <div class="fx-contact-us-1-left">
+                            <!-- section-title -->
+                            <div class="fx-blog-1-scn-title mb-35">
+                                <h6 class="fx-subtitle-1 ">
+                                    <span class="txaa-split-text-2 txaa-split-text-2-ani">Get in Touch</span>
+                                </h6>
+                                <h2 class="fx-scn-title-1 txaa-split-text-3 txaa-split-text-3-ani">Reach Out for Expert
+                                    Industrial Service Solutions</h2>
+                            </div>
+
+                            <form action="#" class="fx-form-1">
+
+                                <!-- single-box -->
+                                <div class="fx-form-1-box">
+                                    <label class="fx-form-1-label">full name:</label>
+                                    <input class="fx-form-1-input" type="text">
+                                </div>
+
+                                <!-- single-box -->
+                                <div class="fx-form-1-box">
+                                    <label class="fx-form-1-label">phone:</label>
+                                    <input class="fx-form-1-input" type="tel">
+                                </div>
+
+                                <!-- single-box -->
+                                <div class="fx-form-1-box">
+                                    <label class="fx-form-1-label">Email:</label>
+                                    <input class="fx-form-1-input" type="email">
+                                </div>
+
+                                <!-- single-box -->
+                                <div class="fx-form-1-box">
+                                    <label class="fx-form-1-label">Company Name:</label>
+                                    <input class="fx-form-1-input" type="text">
+                                </div>
+
+                                <!-- single-box -->
+                                <div class="fx-form-1-box">
+                                    <label class="fx-form-1-label">message:</label>
+                                    <textarea class="fx-form-1-input" name="message"
+                                        placeholder="Write your message here..."></textarea>
+                                </div>
+
+                                <!-- single-box -->
+                                <div class="fx-form-1-box fix txxaslideup">
+                                    <span class="txxaslideup-item fx-cube-1">
+                                        <button type="button" aria-label="name" class="fx-pr-btn-1 ">
+                                            <span class="text" data-back="submit now" data-front="submit now"></span>
+                                            <i class="fa-solid fa-angle-right"></i>
+                                        </button>
+                                    </span>
+
+                                </div>
+
+                            </form>
+
                         </div>
-
-                        <form action="#" class="fx-form-1">
-
-                            <!-- single-box -->
-                            <div class="fx-form-1-box">
-                                <label class="fx-form-1-label">full name:</label>
-                                <input class="fx-form-1-input" type="text">
-                            </div>
-
-                            <!-- single-box -->
-                            <div class="fx-form-1-box">
-                                <label class="fx-form-1-label">phone:</label>
-                                <input class="fx-form-1-input" type="tel">
-                            </div>
-
-                            <!-- single-box -->
-                            <div class="fx-form-1-box">
-                                <label class="fx-form-1-label">Email:</label>
-                                <input class="fx-form-1-input" type="email">
-                            </div>
-
-                            <!-- single-box -->
-                            <div class="fx-form-1-box">
-                                <label class="fx-form-1-label">Company Name:</label>
-                                <input class="fx-form-1-input" type="text">
-                            </div>
-
-                            <!-- single-box -->
-                            <div class="fx-form-1-box">
-                                <label class="fx-form-1-label">message:</label>
-                                <textarea class="fx-form-1-input" name="message"
-                                    placeholder="Write your message here..."></textarea>
-                            </div>
-
-                            <!-- single-box -->
-                            <div class="fx-form-1-box fix txxaslideup">
-                                <span class="txxaslideup-item fx-cube-1">
-                                    <button type="button" aria-label="name" class="fx-pr-btn-1 ">
-                                        <span class="text" data-back="submit now" data-front="submit now"></span>
-                                        <i class="fa-solid fa-angle-right"></i>
-                                    </button>
-                                </span>
-
-                            </div>
-
-                        </form>
-
                     </div>
-                </div>
 
-                <!-- right-side -->
-                <div class="col-lg-6">
-                    <div class="fx-contact-us-1-right h-100 d-flex flex-column">
-                        <div class="fx-contact-us-1-img fix img-cover flex-grow-1 position-relative"
-                            style="min-height: 300px;">
-                            <img src="assets/img/contact/c1-img-1.jpg" alt=""
-                                class="position-absolute start-0 top-0 w-100 h-100" style="object-fit: cover;">
-                        </div>
-                        <div class="fx-contact-us-1-content fix">
-                            <div class="fx-contact-us-1-info-box fix txxaslideup">
-                                <h6 class="box-title fx-heading-1 fx-font-400">Visit Our Office:</h6>
-                                <p class="address fx-para-1 has-clr-white">
-                                    <span class="txxaslideup-item fx-cube-1">Village Daulatpur, Rasulpur Jodan Road,
-                                        Patiala , (Punjab), - 147001 , INDIA</span>
-                                </p>
+                    <!-- right-side -->
+                    <div class="col-lg-6">
+                        <div class="fx-contact-us-1-right h-100 d-flex flex-column">
+                            <div class="fx-contact-us-1-img fix img-cover flex-grow-1 position-relative"
+                                style="min-height: 300px;">
+                                <img src="assets/img/contact/c1-img-1.jpg" alt=""
+                                    class="position-absolute start-0 top-0 w-100 h-100" style="object-fit: cover;">
                             </div>
-                            <div class="fx-contact-us-1-info-box txxaslideup fix">
-                                <h6 class="box-title fx-heading-1 fx-font-400">Have a question?</h6>
-                                <ul class="info-list txxaslideup-item fx-cube-1">
-                                    <li>
-                                        <a href="#" aria-label="name">
-                                            <i class="fa-regular fa-envelope"></i>
-                                            info@gsainds.com
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" aria-label="name">
-                                            <i class="fa-light fa-phone-volume"></i>
-                                            +91-175-5041269
-                                        </a>
-                                    </li>
-                                </ul>
+                            <div class="fx-contact-us-1-content fix">
+                                <div class="fx-contact-us-1-info-box fix txxaslideup">
+                                    <h6 class="box-title fx-heading-1 fx-font-400">Visit Our Office:</h6>
+                                    <p class="address fx-para-1 has-clr-white">
+                                        <span class="txxaslideup-item fx-cube-1">Village Daulatpur, Rasulpur Jodan Road,
+                                            Patiala , (Punjab), - 147001 , INDIA</span>
+                                    </p>
+                                </div>
+                                <div class="fx-contact-us-1-info-box txxaslideup fix">
+                                    <h6 class="box-title fx-heading-1 fx-font-400">Have a question?</h6>
+                                    <ul class="info-list txxaslideup-item fx-cube-1">
+                                        <li>
+                                            <a href="#" aria-label="name">
+                                                <i class="fa-regular fa-envelope"></i>
+                                                info@gsainds.com
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" aria-label="name">
+                                                <i class="fa-light fa-phone-volume"></i>
+                                                +91-175-5041269
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+
+    </section>
     <!-- contact-us-end -->
 
-    <div class="fx-gap-12"></div>
-
-    <div class="fx-gap-12"></div>
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d860.498451310372!2d76.4325395587219!3d30.37953379999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391027dc5467a31b%3A0xe1d0c9742c51ed1!2sG%20S%20A%20Industries%20India%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1772797515136!5m2!1sen!2sin"
+        width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
 
     <?php include("includes/footer.php") ?>
 
