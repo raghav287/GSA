@@ -1,7 +1,7 @@
 <!-- footer-start -->
 <div class="fx-footer-1-area fix ">
     <div class="container fx-container-1">
-        <div class="fx-footer-1-widget pt-120 pb-95">
+        <div class="fx-footer-1-widget pt-60 pb-40">
 
             <!-- single-widget -->
             <div class="fx-footer-1-widget-single">

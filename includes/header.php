@@ -116,7 +116,7 @@
 
                 <!-- pr-btn -->
                 <a href="#" aria-label="name" class="fx-pr-btn-1">
-                    <span class="text" data-back="request a quote" data-front="request a quote"></span>
+                    <span class="text" data-back="Request a quote" data-front="Request a quote"></span>
                 </a>
 
                 <!-- sidebar-btn -->
